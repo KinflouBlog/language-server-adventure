@@ -9,13 +9,16 @@
         <toc-element topic="order of reading.md"/>
         <toc-element topic="references.md"/>
     </toc-element>
-    <toc-element topic="language parsing__index.md">
-        <toc-element topic="language parsing__rust__index.md"/>
+    <toc-element topic="language_parsing__index.md">
+        <toc-element topic="language_parsing__rust__index.md">
+            <toc-element topic="language_parsing__rust__minimal_parsing.md"/>
+            <toc-element topic="language_server__rust__cstree__index.md"/>
+        </toc-element>
     </toc-element>
-    <toc-element topic="language server__index.md">
-        <toc-element topic="language server__setting up.md"/>
-        <toc-element topic="language server__rust__index.md">
-            <toc-element topic="language server__rust__setting up.md"/>
+    <toc-element topic="language_server__index.md">
+        <toc-element topic="language_server__setting_up.md"/>
+        <toc-element topic="language_server__rust__index.md">
+            <toc-element topic="language_server__rust__setting up.md"/>
         </toc-element>
     </toc-element>
     <toc-element topic="extensions__index.md">
@@ -24,8 +27,5 @@
             <toc-element topic="extensions__vscode__building language client.md"/>
             <toc-element topic="extensions__vscode__remote testing.md"/>
         </toc-element>
-    </toc-element>
-    <toc-element toc-title="__workspace__">
-        <toc-element topic="workspace__possible-next-project-templates.md"/>
     </toc-element>
 </instance-profile>

@@ -1,11 +1,11 @@
-# VSCode Extension
+# VSCode
 So having an extension is pretty integral to development involving a language
 as a user, so
 
 
 ## Resource Links
-Here is some of the links i have used to research about the topic at large,
-tho this guide will make all of the steps for you so you won't need to
+Here is some of the links I have used to research about the topic at large,
+tho this guide will make all the steps for you so you won't need to
 hopefully check them at all
 
 https://code.visualstudio.com/api/get-started/your-first-extension

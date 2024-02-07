@@ -6,7 +6,3 @@ I will be using a small language for this guide but you
 can just replace it with your language if you feel like
 it 😄
 
-
-> Reminder: Don't hesitate to take a break and have some water or go for a walk,
-> breaks are good
-
