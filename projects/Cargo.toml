@@ -1,0 +1,20 @@
+[workspace]
+members = [
+    "language/*",
+    "language-server/*",
+]
+resolver = "2"
+ 
+[workspace.package]
+rust-version = "1.74"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+authors = ["Kinflou"]
+
+[profile.dev]
+debug = 0
+
+[profile.release]
+incremental = true
+debug = 0
+

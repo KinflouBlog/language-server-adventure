@@ -1,4 +1,4 @@
-# A Language Server Adventure
+# A Language, Server and Friends Adventure
 
 So for a while I have been into language development, sometimes to help
 coming up with niche DSLs that can be useful, other times to just complement
